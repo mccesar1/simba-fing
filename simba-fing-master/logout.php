@@ -5,5 +5,5 @@
 
   session_destroy();
 
-  header('Location: /ksimba');
+  header('Location: /simba-fing-master');
 ?>
